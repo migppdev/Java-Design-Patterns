@@ -51,7 +51,7 @@ public class Logger {
 	
 	// Show logs with a specific log level (method overloading)
 	public void showLogs(LogLevel logLevel) {
-		System.out.printf("===== LOGS (%d) =====%n", logCounter);
+		System.out.printf("===== %s LOGS =====%n",  logLevel);
 		for (Log log : this.logList) {
 			if (log.getLogLevel() == logLevel) {
 				System.out.printf("[%s] %s%n", log.getLogLevel(), log.getMsg());
