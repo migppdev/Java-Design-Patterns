@@ -9,8 +9,8 @@ This repository contains **8 small Java projects** to practice fundamental **obj
 |---|---------|---------|--------|
 | 1 | Logger  | Singleton | Completed |
 | 2 | Enemy creation | Factory Method | Completed |
-| 3 | Notification System | Observer | In progress |
-| 4 | Payment Strategies | Strategy | TO-DO |
+| 3 | Notification System | Observer | Completed |
+| 4 | Payment Strategies | Strategy | In Progress |
 | 5 | Text Filters | Decorator | TO-DO |
 | 6 | Remote Control Commands | Command | TO-DO |
 | 7 | Legacy Payment Adapter | Adapter | TO-DO |
