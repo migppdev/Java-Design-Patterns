@@ -1,4 +1,4 @@
-package enemy;
+package enemyCreationFactory;
 
 public class Alien implements Enemy {
 

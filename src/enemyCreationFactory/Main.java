@@ -1,6 +1,6 @@
-package enemy;
+package enemyCreationFactory;
 
-import enemy.factory.EnemyFactory;
+import enemyCreationFactory.factory.EnemyFactory;
 
 public class Main {
     public static void main(String[] args) {

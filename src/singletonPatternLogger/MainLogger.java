@@ -14,11 +14,11 @@ public class MainLogger {
 		logger.logInfo("Loaded drivers");
 		
 		// Show only logs with log level INFO
-		Logger.getInstance().showLogs(LogLevel.INFO);
+		logger.showLogs(LogLevel.INFO);
 		
 		System.out.println();
 		
 		// Show all logs
-		Logger.getInstance().showLogs();
+		logger.showLogs();
 	}
 }

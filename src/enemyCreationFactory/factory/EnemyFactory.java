@@ -1,9 +1,9 @@
-package enemy.factory;
+package enemyCreationFactory.factory;
 
-import enemy.Alien;
-import enemy.Enemy;
-import enemy.EnemyType;
-import enemy.Zombie;
+import enemyCreationFactory.Alien;
+import enemyCreationFactory.Enemy;
+import enemyCreationFactory.EnemyType;
+import enemyCreationFactory.Zombie;
 
 public class EnemyFactory {
 		
