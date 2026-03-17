@@ -8,7 +8,7 @@ This repository contains **8 small Java projects** to practice fundamental **obj
 | # | Project | Pattern | Status |
 |---|---------|---------|--------|
 | 1 | Logger  | Singleton | Completed |
-| 2 | Notification System | Factory Method | Completed |
+| 2 | Enemy creation | Factory Method | Completed |
 | 3 | Notification System | Observer | In progress |
 | 4 | Payment Strategies | Strategy | TO-DO |
 | 5 | Text Filters | Decorator | TO-DO |
